@@ -1,6 +1,0 @@
-Capitulo 1. Trabajo en Equipo.
-
-- Comunicacion.
-- Metodologia de Proyectos.
-- Gestion del Producto Digital.
-
