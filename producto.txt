@@ -1,6 +1,6 @@
-Capitulo 1. Trabajo en Equipo.
+Chapter 1. Teamwork.
 
-- Comunicacion.
-- Metodologia de Proyectos.
-- Gestion del Producto Digital.
+- Communication.
+- Project’s Methodology.
+- Product Management.
 
